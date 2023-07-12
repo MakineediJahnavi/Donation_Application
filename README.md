@@ -1,2 +1,2 @@
-# Sparks_Donation
+# Donation_Application
 https://makineedijahnavi.github.io/Donation_Application/
